@@ -16,7 +16,7 @@ Simply passing the server only name will return several bits of information on t
      Server> UnderwaterBasketWeavingWeb01 -d  
 
 **Requirements:**  
-  1) Install powerCLI (VMware-PowerCLI-6.5.0.exe bundled with this script) Check for more recent ver online  
+  1) Install powerCLI (Check for most recent from vendor's site)  
   2) Get-Module -Name VMware* -ListAvailable | Import-Module  
   3) Install-Module -Name Posh-SSH  
   4) Restart powershell ISE  
